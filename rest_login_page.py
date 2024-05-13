@@ -26,7 +26,7 @@ def validation():
         #     messagebox.showerror('Error','Password field cannot be Empty')
         if password=='' or name=='':
              messagebox.showinfo('message', 'fill the empty field!!!')
-        elif name=="Koushik__333" and password=="Koushik@2003":
+        elif name=="Admin" and password=="Admin":
             messagebox.showinfo('message', 'Admin Verified Successfully!!! Have Nice Day')
             ws.destroy()
             import rest_pgm

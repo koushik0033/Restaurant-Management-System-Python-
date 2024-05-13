@@ -10,7 +10,7 @@ Generate Bill: Easily generate bills for customer orders, ensuring accurate bill
 Installation
 To run this application locally, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/yourusername/restaurant-management-system-python.git.
+Clone this repository to your local machine using git clone https://github.com/koushik0033/restaurant-management-system-python.git.
 Navigate to the project directory: cd restaurant-management-system.
 Install the required dependencies by running pip install -r requirements.txt.
 Run the application by executing python res_login_page.py.
